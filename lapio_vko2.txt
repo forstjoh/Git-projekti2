@@ -1,4 +1,4 @@
-Kävimme edellisissä osissa läpi, mitä komentorivi ja versionhallinta ovat. Tässä osassa pääsemme käyttämään opeteltuja taitoja yksinkertaisten staattisten verkkosivujen avulla. Käsittelemme aluksi, mitä staattiset verkkosivut ovat ja mistä ne koostuvat.
+ Tässä osassa pääsemme käyttämään opeteltuja taitoja yksinkertaisten staattisten verkkosivujen avulla. Käsittelemme aluksi, mitä staattiset verkkosivut ovat ja mistä ne koostuvat.
 
 Yksinkertaistettuna verkkosivulla tarkoitetaan internetissä julkaistua tekstidokumenttia. Dokumentit sijaitsevat palvelinkoneella, josta käyttäjät voivat hakea niitä selaimella. Tyypillisesti verkkosivut jaotellaan kahteen kategoriaan: staattisiin verkkosivuihin ja dynaamisiin verkkosivuihin. Staattisilla sivustoilla tarkoitetaan sivustoja, joiden sisältö ei vaihdu, jos sitä ei erikseen vaihdeta palvelimelta. Jokaiselle käyttäjälle näkyy samanlainen sivusto. Staattisia verkkosivuja pystytään luomaan HTML-merkintäkielen avulla. Dynaamiset sivut taas luodaan samalla, kun selain pyytää sivua. Dynaamisista sivuista puhutaan lisää myöhemmillä kursseilla.
 
